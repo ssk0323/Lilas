@@ -26,5 +26,5 @@ exit
 docker-compose up
 ```
 
-5. terminalに表示されている、QRへスマホでアクセス、動作確認。
+## 5. terminalに表示されている、QRへスマホでアクセス、動作確認。
 
