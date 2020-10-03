@@ -9,7 +9,7 @@ npm-debug.*
 *.orig.*
 web-build/
 
-lilas/
+/lilas/
 
 # macOS
 .DS_Store
