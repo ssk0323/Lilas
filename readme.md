@@ -1,6 +1,5 @@
-各自のスマホにexpoAppをinstallしておいてください
-
-
+# 各自のスマホにexpoAppをinstallしておいてください
+# あと.envのIPアドレスも自分の環境のに変えてくださいね
 ## 1. dockerコンテナをビルド
 ``` 
 docker-compose build 
