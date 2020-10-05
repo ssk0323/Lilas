@@ -1,3 +1,4 @@
+# これは動かないタイプのmaster
 各自のスマホにexpoAppをinstallしておいてください
 
 
