@@ -15,3 +15,8 @@ docker-compose up
 
 ## 3. terminalに表示されている、QRへスマホでアクセス、動作確認。
 
+##　補足
+コンテナへ入るには
+```
+docker-compose run --rm lilas bash --login
+```
